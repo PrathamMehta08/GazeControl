@@ -52,3 +52,6 @@ Contributions to GazeControl are welcome! Whether it's fixing bugs, adding new f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## References
+https://medium.com/@amit.aflalo2/eye-gaze-estimation-using-a-webcam-in-100-lines-of-code-570d4683fe23
