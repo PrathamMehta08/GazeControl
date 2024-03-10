@@ -1,0 +1,5 @@
+numpy==1.21.5
+opencv-python==4.5.3.56
+pygame==2.0.1
+mediapipe==0.8.10
+gtts==2.2.3
