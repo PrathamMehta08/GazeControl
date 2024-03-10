@@ -13,7 +13,7 @@ GazeControl is a Python-based project that enables gaze-controlled interaction.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/GazeControl.git
+   git clone https://github.com/PrathamMehta08/GazeControl.git
    ```
 
 2. Navigate to the project directory:
