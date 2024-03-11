@@ -45,6 +45,9 @@ GazeControl is a Python-based project that enables gaze-controlled interaction.
 - mediapipe
 - gtts
 
+## Documentation
+Please view `GazeControl Documentation.pdf` in the project files
+
 ## Contributing
 
 Contributions to GazeControl are welcome! Whether it's fixing bugs, adding new features, or improving documentation, feel free to open pull requests or issues on GitHub.
